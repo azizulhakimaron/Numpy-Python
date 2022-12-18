@@ -1,0 +1,11 @@
+import numpy as np
+diag1=np.diag([1,2,3,4])
+print(diag1)
+rand_arr=np.random.randint(1,15,4)
+print(rand_arr)
+rand1=np.random.rand(4)
+rand2=np.random.rand(10)
+rand3=np.random.rand(3,4)
+print(rand1)
+print(rand2)
+print(rand3)
