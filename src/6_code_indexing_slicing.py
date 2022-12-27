@@ -12,3 +12,4 @@ print(matrix1[1:,1:])
 matrix2=np.random.randint(1,101,25).reshape(5,5)
 print(matrix2)
 print(matrix2[2:6,2:6])
+
